@@ -1,4 +1,5 @@
 # HW2 - Using Functions
+Brandon Pratt, 10/17/2019
 
 Create a python module (a file with extension ‘.py’) with the following functions:
 
